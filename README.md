@@ -10,9 +10,9 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.facebook.com/mohamed.Soliman.co" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/mohamed.Soliman.co" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohamed.Soliman.co" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" alt="https://www.facebook.com/mohamed.Soliman.co" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohamed-ismail-soliman/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png" alt="https://www.linkedin.com/in/mohamed-ismail-soliman/" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCFh6MxNVel0yGLSNbBJZhOA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCFh6MxNVel0yGLSNbBJZhOA" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCFh6MxNVel0yGLSNbBJZhOA" target="blank"><img align="center" src="https://toppng.com/uploads/preview/youtube-logo-png-116186698684etjs0nnhw.png" alt="https://www.youtube.com/channel/UCFh6MxNVel0yGLSNbBJZhOA" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
