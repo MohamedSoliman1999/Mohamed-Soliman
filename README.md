@@ -32,7 +32,7 @@
 <img align="left" alt="Android" width="26px" src="https://www.kite.com/wp-content/uploads/2020/10/android_studio.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://www.kite.com/wp-content/uploads/2020/10/kotlin.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://www.kite.com/wp-content/uploads/2020/10/javascript.png" />
-<img align="left" alt="Bitrise" width="26px" src="https://assets-global.website-files.com/5db35de024bb983af1b4e151/5e6f9ccc3e129dfd8a205e4e_Bitrise%20Logo%20-%20Eggplant%20Bg.png" />
+<img align="left" alt="Bitrise" width="26px" src="https://assets-global.website-files.com/5db35de024bb983af1b4e151/5eb2a34d4cee6c264f61c34a_og-image-default.png" />
 <br />
 <br />
 
