@@ -10,9 +10,9 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.facebook.com/mohamed.Soliman.co" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" alt="https://www.facebook.com/mohamed.Soliman.co" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohamed.Soliman.co" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" alt="https://www.facebook.com/mohamed.Soliman.co" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohamed-ismail-soliman/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png" alt="https://www.linkedin.com/in/mohamed-ismail-soliman/" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCFh6MxNVel0yGLSNbBJZhOA" target="blank"><img align="center" src="https://toppng.com/uploads/preview/youtube-logo-png-116186698684etjs0nnhw.png" alt="https://www.youtube.com/channel/UCFh6MxNVel0yGLSNbBJZhOA" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCFh6MxNVel0yGLSNbBJZhOA" target="blank"><img align="center" src="https://pngimg.com/uploads/youtube/youtube_PNG9.png" alt="https://www.youtube.com/channel/UCFh6MxNVel0yGLSNbBJZhOA" height="40" width="40" /></a>
 </p>
 
 ### Languages and Tools:
@@ -32,6 +32,7 @@
 <img align="left" alt="Android" width="26px" src="https://www.kite.com/wp-content/uploads/2020/10/android_studio.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://www.kite.com/wp-content/uploads/2020/10/kotlin.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://www.kite.com/wp-content/uploads/2020/10/javascript.png" />
+<img align="left" alt="Bitrise" width="26px" src="https://assets-global.website-files.com/5db35de024bb983af1b4e151/5e6f9ccc3e129dfd8a205e4e_Bitrise%20Logo%20-%20Eggplant%20Bg.png" />
 <br />
 <br />
 
