@@ -1,5 +1,5 @@
 
-### Hey there, I'm [Mohamed-Soliman](https://github.com/MohamedSoliman1999)! 👋
+### Hey there, I'm [Mohamed-Soliman](https://www.mohamed-soliman.com/)! 👋
 <h4 align="left">A passionate Android developer💻📱and computer science student at Ain Shams university🏫 😀</h4>
 
 - 🌱 I’m currently learning **Android, Kotin, Asp.net, ML, Image Processing**
@@ -10,7 +10,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.facebook.com/mohamed.Soliman.co" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" alt="https://www.facebook.com/mohamed.Soliman.co" height="40" width="40" /></a>
+<a href="https://www.mohamed-soliman.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" alt="https://www.facebook.com/mohamed.Soliman.co" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohamed-ismail-soliman/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png" alt="https://www.linkedin.com/in/mohamed-ismail-soliman/" height="40" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCFh6MxNVel0yGLSNbBJZhOA" target="blank"><img align="center" src="https://pngimg.com/uploads/youtube/youtube_PNG9.png" alt="https://www.youtube.com/channel/UCFh6MxNVel0yGLSNbBJZhOA" height="40" width="40" /></a>
 </p>
